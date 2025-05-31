@@ -59,11 +59,12 @@ streamlit run app.py
 ## 📎 Liens
 
 - 📁 [Dépôt GitHub](https://github.com/MeriemSaloumy/Projet_BD/tree/main/.streamlit)  
-- 🎥 [Démonstration Vidéo](https://raw.githubusercontent.com/MeriemSaloumy/Projet_BD/refs/heads/main/Video_BD.mp4)
+- 🎥 [Démonstration Vidéo](https://youtu.be/DJ0OvJZKwX4)
 
 ---
 
-## 👤 Auteur
+## 👤 Auteur\
+
 
 > Salimi Manar - Saloumy Meriem — Licence MIP — IAP S4  
 > Encadré par Pr. J. Zahir
