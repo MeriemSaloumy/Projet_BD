@@ -1,0 +1,8 @@
+SQLite est un SGBD léger, intégré dans une application, sans serveur. Idéal pour les petits projets ou les prototypages.
+
+MySQL est un SGBD plus complet, multi-utilisateurs, avec gestion de serveur, très utilisé dans les applications web.
+
+Principales différences :
+- SQLite stocke tout dans un fichier .db
+- MySQL nécessite un serveur et une base hébergée
+- SQLite ne supporte pas toutes les contraintes (CHECK par ex. n’est pas toujours activé)
